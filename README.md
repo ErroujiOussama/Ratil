@@ -35,8 +35,8 @@ This application utilizes the Quran API to fetch verses in Arabic and English tr
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ErroujiOussama/Ratil.git
+   cd Ratil
    ```
 
 2. Install dependencies:
