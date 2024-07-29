@@ -25,7 +25,7 @@ This application utilizes the Quran API to fetch verses in Arabic and English tr
 
 
 ## Requirements
-- Python 3.x
+- Python 3
 - Streamlit
 - Requests
 ## Credits
