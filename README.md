@@ -29,28 +29,7 @@ This application utilizes the Quran API to fetch verses in Arabic and English tr
 - Python 3.x
 - Streamlit
 - Requests
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ErroujiOussama/Ratil.git
-   cd Ratil
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-
-   ```bash
-   streamlit run app.py
-   ```
-
+  S
 ## Credits
 
 - **Quran API:** Used for fetching Quranic verses.
